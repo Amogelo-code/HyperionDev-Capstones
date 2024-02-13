@@ -1,3 +1,0 @@
-Malone,036491,House,46 Rossi Road,081,12000000,7500000,12 October 2024,Sophie Ndaba,sophie.n@yahoo.com,0123456789,16 Hathaway Avenue,Stefan Antoni,stephanAntoniArchitects@gmail.com,0638791146,46 Baker Street,Jim Stark,fatherofironman@gmail.com,0826704198,1 Malibu DriveMughemuzi,0912,Mansion,12 Cherry Lane,0467,12000,4000,12 May 2024,Details
-Tefo,0192,House,44 Hamilton Way,6978,12000,4000,23 Oct 2024,serge,sergeM@gmail.com,sergeM@gmail.com,12 Cemetry Crescent,stefan,stefan@gmail.com,0123456789,67 Cape Road,Amogelo Tefo,amo@gmail.com,0648414865,1 Rosa Royale
-batman,28,batcave,batcave street,3452,20,10,10 Jan 2022,jeff,jeff@gmail.com,194i24,jeff street ,kevin,kevin@gmail.com,243,kevin street,jordan,jorden@gmail.com,349i34u,jorden street
